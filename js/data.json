@@ -15,4 +15,3 @@ data = `[
     { "numOfRooms": 1, "address": "Академика Сахарова, 22 ", "district": "Центральный район", "square": 43, "floor": 7, "numOfFloors": 10, "price": 14000},
     { "numOfRooms": 1, "address": "Академика Сахарова, 30", "district": "Центральный район", "square": 43, "floor": 3, "numOfFloors": 10, "price": 13000}
 ]`
-
